@@ -2,6 +2,9 @@ import luad.all;
 
 void main()
 {
+	
+	//See samples here : http://jakobovrum.github.io/LuaD/
+	
 	auto lua = new LuaState;
 	lua.openLibs();
 
