@@ -1,0 +1,8 @@
+{
+	"name" : "luad-sample",
+	"description" : "A simple project to try LuaD",
+	dependencies" : {
+       "luad": "~master"
+    },
+    "targetPath" : "bin"
+}
