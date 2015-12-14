@@ -23,6 +23,6 @@ void main()
 	    assert(test == 1.5)
 	    assert(globals == _G)
 	    assert(_G[1] == true)
-	    assert(array[1] == 2.5)
+	    assert(array[1] == 2)
 	`);
 }
